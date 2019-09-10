@@ -12,7 +12,7 @@ class InstructorApp extends Component {
         return (
                 <Router basename ="ChatProject/">
                 <>
-                    <h1>Instructor Application</h1>
+                    <h1>Instructor Application 1</h1>
                     <Switch>
                         
                         <Route path="/" exact component={ListCoursesComponent} />
