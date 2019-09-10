@@ -10,7 +10,7 @@ import { Route, Switch, BrowserRouter as Router } from 'react-router-dom'
 class InstructorApp extends Component {
     render() {
         return (
-                <Router basename ="/frontend-jap-keep">
+                <Router basename ="../">
                 <>
                     <h1>Instructor Application</h1>
                     <Switch>
