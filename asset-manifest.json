@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ChatProject/static/css/main.fb30bb74.chunk.css",
-    "main.js": "/ChatProject/static/js/main.1d98d217.chunk.js",
-    "main.js.map": "/ChatProject/static/js/main.1d98d217.chunk.js.map",
+    "main.css": "/ChatProject/static/css/main.04e8ca61.chunk.css",
+    "main.js": "/ChatProject/static/js/main.de68f851.chunk.js",
+    "main.js.map": "/ChatProject/static/js/main.de68f851.chunk.js.map",
     "runtime~main.js": "/ChatProject/static/js/runtime~main.0f1aa5b3.js",
     "runtime~main.js.map": "/ChatProject/static/js/runtime~main.0f1aa5b3.js.map",
     "static/js/2.b11c17db.chunk.js": "/ChatProject/static/js/2.b11c17db.chunk.js",
     "static/js/2.b11c17db.chunk.js.map": "/ChatProject/static/js/2.b11c17db.chunk.js.map",
     "index.html": "/ChatProject/index.html",
-    "precache-manifest.4cb3f697b61ed0ec548c6f9655e14660.js": "/ChatProject/precache-manifest.4cb3f697b61ed0ec548c6f9655e14660.js",
+    "precache-manifest.d9967533667945e0eb11e76c53eda084.js": "/ChatProject/precache-manifest.d9967533667945e0eb11e76c53eda084.js",
     "service-worker.js": "/ChatProject/service-worker.js",
-    "static/css/main.fb30bb74.chunk.css.map": "/ChatProject/static/css/main.fb30bb74.chunk.css.map"
+    "static/css/main.04e8ca61.chunk.css.map": "/ChatProject/static/css/main.04e8ca61.chunk.css.map"
   }
 }
