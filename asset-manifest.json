@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ChatProject/static/css/main.04e8ca61.chunk.css",
+    "main.css": "/ChatProject/static/css/main.ff4de9e7.chunk.css",
     "main.js": "/ChatProject/static/js/main.cc868b37.chunk.js",
     "main.js.map": "/ChatProject/static/js/main.cc868b37.chunk.js.map",
     "runtime~main.js": "/ChatProject/static/js/runtime~main.0f1aa5b3.js",
@@ -8,8 +8,8 @@
     "static/js/2.b11c17db.chunk.js": "/ChatProject/static/js/2.b11c17db.chunk.js",
     "static/js/2.b11c17db.chunk.js.map": "/ChatProject/static/js/2.b11c17db.chunk.js.map",
     "index.html": "/ChatProject/index.html",
-    "precache-manifest.528db3781899258f594c3df707015c6c.js": "/ChatProject/precache-manifest.528db3781899258f594c3df707015c6c.js",
+    "precache-manifest.db63755fe704748c4791546989b1e721.js": "/ChatProject/precache-manifest.db63755fe704748c4791546989b1e721.js",
     "service-worker.js": "/ChatProject/service-worker.js",
-    "static/css/main.04e8ca61.chunk.css.map": "/ChatProject/static/css/main.04e8ca61.chunk.css.map"
+    "static/css/main.ff4de9e7.chunk.css.map": "/ChatProject/static/css/main.ff4de9e7.chunk.css.map"
   }
 }
